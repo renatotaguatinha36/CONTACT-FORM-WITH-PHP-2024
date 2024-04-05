@@ -22,7 +22,7 @@ body{
   width: 715px;
   background: #fff;
   border-radius: 5px;
-  box-shadow: 10px 10px 10px rgba(0,0,0,0.05);
+  box-shadow: 10px 10px 10px rgba(34, 9, 9, 0.05);
 }
 .wrapper header{
   font-size: 22px;
