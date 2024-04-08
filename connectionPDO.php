@@ -56,7 +56,7 @@ try {
   $stmt->bindParam(':id', $id);
 
   // insert a row
-  $firstname = "John";
+  $firstname =  $_POST['nome'];
   $lastname = "Doe";
   $email = "john@example.com";
   $stmt->execute();
